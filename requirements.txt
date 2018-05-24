@@ -7,18 +7,22 @@ Cython==0.28.1
 Flask==0.12.2
 Flask-Cors==3.0.3
 Flask-JWT-Extended==3.7.2
+flask-mongoengine==0.9.5
 Flask-RESTful==0.3.6
 Flask-Script==2.0.6
 flask-swagger-ui==3.6.0
+Flask-WTF==0.14.2
 itsdangerous==0.24
 Jinja2==2.10
 ldap3==2.4.1
 MarkupSafe==1.0
+mongoengine==0.15.0
 more-itertools==4.1.0
 pluggy==0.6.0
 py==1.5.3
 pyasn1==0.4.2
 PyJWT==1.4.2
+pymongo==3.6.1
 pytest==3.5.0
 pytest-cov==2.5.1
 pytest-flask==0.10.0
@@ -29,3 +33,4 @@ pytz==2018.3
 six==1.11.0
 uniqid==0.0.1
 Werkzeug==0.14.1
+WTForms==2.1
